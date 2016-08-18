@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+uno:
+  nombre: MyString
+  fecha: 2016-08-17
+  precio: 700.50
+  
+
+dos:
+  nombre: MyString
+  fecha: 2016-08-17
+  precio: 2560.6
+tres:
+  nombre: MyString
+  fecha: 2016-08-17
+  precio: 8000.5
+
+cuatro:
+  nombre: MyString
+  fecha: 2016-08-17
+  precio: 67889.0
